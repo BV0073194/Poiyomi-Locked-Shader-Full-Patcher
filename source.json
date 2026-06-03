@@ -1,19 +1,24 @@
 {
-    "name":"Example Listing",
+    "name":"Poiyomi Locked Shader Full Patcher - (PLSFP)",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://github.com/BV0073194/Poiyomi-Locked-Shader-Full-Patcher/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"bv0205@icloud.com",
+        "name":"B00",
+        "url":"https://github.com/BV0073194/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing of hosted VRChat package for safety of open-source!",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/BV0073194/Poiyomi-Locked-Shader-Full-Patcher",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "BV0073194/Poiyomi-Locked-Shader-Full-Patcher"
+    "packages":[
+        {
+            "name":"com.plsfp.b00",
+            "releases":[
+                "https://github.com/BV0073194/Poiyomi-Locked-Shader-Full-Patcher/blob/main/Packages/com.plsfp.b00.zip"
+            ]
+        }
     ]
 }
