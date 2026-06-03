@@ -13,6 +13,9 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
+    "githubRepos":[
+        "BV0073194/Poiyomi-Locked-Shader-Full-Patcher"
+    ],
     "packages":[
         {
             "name":"com.plsfp.b00",
